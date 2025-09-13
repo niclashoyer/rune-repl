@@ -1,0 +1,10 @@
+[package]
+name = "rune-repl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.99"
+prompted = "0.2.8"
+rune = "0.14.0"
+rune-modules = "0.14.0"
